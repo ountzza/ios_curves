@@ -1,0 +1,3 @@
+h1. iOS Curves
+
+This is a Objective-C library for drawing different spline. Original made by Bryan Spitz on "sourceforge.net/projects/curve":http://sourceforge.net/projects/curve/ but it looks like the author didn't succeed it commiting it and instead had uploaded the files. 
